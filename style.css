@@ -1,6 +1,22 @@
 body{
 background-color: black;
-
-
+}
+.cabecalho{
+ margin-bottom:0px;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ border: 2px solid green;
+ background-image: url(wp921011.jpg);
+ background-size: cover;
+ background-position: 50% 75%;
 
 }
+
+
+
+
+
+
+
+
